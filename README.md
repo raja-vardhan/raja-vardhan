@@ -14,9 +14,10 @@ I’m a **Computer Science Master’s student at the University of Utah**, with 
 ### I’m currently learning
 
 * **GPU programming**: CUDA, fast and verified GPU code
-* **Software verification**
+* **LLMs and Agentic AI**
 * **Managing data for ML**: Data processing, Spark
 * **Compilers**
+* **Software verification**
 
 ---
 
